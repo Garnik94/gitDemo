@@ -1,4 +1,0 @@
-new git branch
-second row in newBranch
-change in cloned folder
-new row in main
